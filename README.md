@@ -1,0 +1,2 @@
+- Hi, I am Leonhard
+- I code in Java, Javascript and Python
