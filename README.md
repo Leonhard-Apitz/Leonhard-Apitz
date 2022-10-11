@@ -1,2 +1,4 @@
 - Hi, I am Leonhard
 - I code in Java, Javascript and Python
+- I am currently working on my own website, because of why not ¯\_(ツ)_/¯
+- If you want something from me just send a message
